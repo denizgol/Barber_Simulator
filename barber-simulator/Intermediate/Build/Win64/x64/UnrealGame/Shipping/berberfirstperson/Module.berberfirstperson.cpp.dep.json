@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\deniz\\desktop\\allfiles\\barber-simulator\\files\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\berberfirstperson\\module.berberfirstperson.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\deniz\\desktop\\allfiles\\barber-simulator\\files\\intermediate\\build\\win64\\x64\\berberfirstperson\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\deniz\\desktop\\allfiles\\barber-simulator\\files\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\berberfirstperson\\definitions.berberfirstperson.h",
+            "c:\\users\\deniz\\desktop\\allfiles\\barber-simulator\\files\\intermediate\\source\\berberfirstperson.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
