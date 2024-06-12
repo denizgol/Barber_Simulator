@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.berberfirstperson.cpp.obj": [
-			"berberfirstperson.cpp.obj"
-		]
-	}
-}
